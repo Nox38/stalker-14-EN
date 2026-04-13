@@ -160,7 +160,7 @@
         ClothingHeadAssaultHelmetDolg: 3500 #T3
           # OuterClothing #
         ClothingOuterJacketDolg: 60 # T1 - PVE
-        STClothingOuterArmorLightPlateVestBaseDolg: 2000 # T2 - PvP
+        STClothingOuterArmorLightPlateVestBaseDolg: 500 # T2 - PvP
         ClothingOuterArmorRCBZDolg: 1700 # T2 - ENV
         ClothingOuterArmorZaryaDolg: 2000 # T2 - Universal
         ClothingOuterArmorSevaDolgRed: 5250 # T3 - ENV

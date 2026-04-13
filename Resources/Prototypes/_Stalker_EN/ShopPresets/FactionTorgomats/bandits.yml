@@ -278,7 +278,7 @@
           # OuterClothing #
         ClothingOuterCoatBanditBrown: 550 # T1 - uni
         ClothingOuterCoatBanditBlack: 550 # T1 - uni
-        STClothingOuterArmorLightPlateVestBaseBand: 1000 # T2 - PvP
+        STClothingOuterArmorLightPlateVestBaseBand: 800 # T2 - PvP
         SetArmoutJacketBanditBuyableCrate: 1025 # T2 - PvP
         ClothingOuterArmourCoatBanditBrown: 1050 # T2 - PvP
         ClothingOuterArmourCoatBanditBlack: 1050 # T2 - PvP

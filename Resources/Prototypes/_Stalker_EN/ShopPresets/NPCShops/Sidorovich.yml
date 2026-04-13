@@ -212,7 +212,7 @@
       items:
         #20gauge
         62mmBuckshotBox: 30 #T0
-        75mmBuckshotBox: 200 #T1     
+        75mmBuckshotBox: 200 #T1
         #7mm
         7mmBuckshotBox: 50 # T0
         6mmBuckshotBox: 275 # T1
@@ -291,7 +291,7 @@
         ClothingHeadHelmetSH68: 250 # T1 - PVP:
           # OuterClothing #
         SetJacketNoviceWhiteBuyableCrate: 100 # T1 - uni
-        STClothingOuterArmorLightPlateVestBaseStalker: 1250 # T2 - PvP
+        STClothingOuterArmorLightPlateVestBaseStalker: 700 # T2 - PvP
         SetArmourJacketNoviceBrezentBuyableCrate: 1500 # T2 - PvP
         SetArmourJacketNoviceWhiteBuyableCrate: 1500 # T2 - PvP
         ClothingOuterArmor6B2: 2000

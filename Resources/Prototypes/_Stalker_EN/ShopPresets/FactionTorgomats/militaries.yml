@@ -644,7 +644,7 @@
       ClothingHeadAssaultHelmetMilitary: 2275 # T3 - PVP
 
       # OuterClothing #
-      STClothingOuterArmorLightPlateVestBaseMilitary: 750 # T2 - PvP Adjusted
+      STClothingOuterArmorLightPlateVestBaseMilitary: 400 # T2 - PvP Adjusted
       ClothingOuterArmor6B2: 1200 # T2 - PvP Adjusted
       ClothingOuterArmorZaryaMilitary: 1460 # T2 - Universal
       ClothingOuterArmorSevaMilitary: 4550 # T2 - ENV

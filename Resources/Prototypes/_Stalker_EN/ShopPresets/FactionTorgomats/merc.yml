@@ -209,7 +209,7 @@
       priority: 6
       items:
         ClothingOuterJacketMerc: 50 # T1
-        STClothingOuterArmorLightPlateVestBaseMerc: 1100 # T2 - PvP
+        STClothingOuterArmorLightPlateVestBaseMerc: 500 # T2 - PvP
         ClothingOuterArmorSevaMerc: 4600 # T3 - ENV
         SetMerc2BuyableCrate: 12000 # T3 - PvP
         SetMercBuyableCrate: 12000 # T3 - PvP

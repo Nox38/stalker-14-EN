@@ -230,7 +230,7 @@
       ClothingHeadHelmetVityazNeutral: 3000 # T3 PVP
       # OuterClothing #
       ClothingOuterJacketNeytral: 100 # T1 - uni
-      STClothingOuterArmorLightPlateVestBaseStalker: 1250 # T2 - PvP
+      STClothingOuterArmorLightPlateVestBaseStalker: 600 # T2 - PvP
       ClothingOuterArmor6B2: 2000
       STClothingOuterArmorRCBZ: 1800 # T2 - ENV
       ClothingOuterArmorZaryaNeutral: 2000 # T2 - PVE
