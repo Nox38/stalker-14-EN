@@ -7,8 +7,7 @@
   description: Стандартный бронежилет II типа, обеспечивающий достойную защиту от большинства видов повреждений
   components:
   - type: STWeight
-    #self: 4.5 # Stalker EN change - a T2 Sunrise *full armor suit*, including leg and arm protection, weighs 5kg. A simple vest should weigh a lot less.
-    self: 2.5 # Stalker EN change
+    self: 2.5
   - type: Storage
     maxItemSize: Normal
     grid:
@@ -273,7 +272,7 @@
       types:
         Radiation: 18.01
   - type: GrantsArtifactSlots
-    slots: 3 # EN
+    slots: 5 # EN
 
 
 - type: entity
