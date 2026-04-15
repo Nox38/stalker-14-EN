@@ -259,7 +259,7 @@
       priority: 4
       items:
           # OuterClothing #
-        STClothingOuterArmorLightPlateVestBaseStalker: 650
+        STClothingOuterArmorLightPlateVestBaseStalker: 600
         ClothingOuterArmor6B2: 2000
         ClothingHeadHelmetInfantry: 400
         STClothingHeadHelmetMakeshiftTacticalT3: 1000

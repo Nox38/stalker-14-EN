@@ -339,7 +339,7 @@
       priority: 7
       items:
         # Body Armor
-        STClothingOuterArmorLightPlateVestBaseStalker: 550 # T2 - PvP
+        STClothingOuterArmorLightPlateVestBaseStalker: 600 # T2 - PvP
         SetArmourJacketNoviceBrezentBuyableCrate: 1500 # T2 - PvP
         SetArmourJacketNoviceWhiteBuyableCrate: 1500 # T2 - PvP
         STClothingOuterArmorLightPlateVestBaseANAgreenOld: 2000 # T3 - Weak
