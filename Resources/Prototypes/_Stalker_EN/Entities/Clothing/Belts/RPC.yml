@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingBeltStorageStalkerBase
-  id: ClothingBeltMedicalSatchelStalker
-  name: Medic's satchel
-  description: A large satchel worn by designated medics. Easily fits a medkit, with room for additional equipment.
+  id: ClothingBeltWebbingMedicalStalker
+  name: Medic waist bag
+  description: Waist bag worn by designated medics. Easily fits a medkit, with room for additional equipment.
   suffix: ST
   components:
   - type: STWeight
