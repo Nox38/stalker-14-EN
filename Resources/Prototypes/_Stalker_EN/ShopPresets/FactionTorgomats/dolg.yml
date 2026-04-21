@@ -180,6 +180,7 @@
           # Belts
         ClothingBeltBandolierStalker: 20 # T1 - PVE
         ClothingBeltWebbingHolsterDolgPS5M: 700 # t3 belt
+        ClothingBeltMedicalSatchelStalker: 800 # T3
 
     - name: shop-category-raincoats-and-gasmasks
       priority: 8
