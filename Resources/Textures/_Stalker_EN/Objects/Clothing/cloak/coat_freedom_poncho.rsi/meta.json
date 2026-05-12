@@ -11,7 +11,14 @@
       "name": "icon"
     },
     {
+      "name": "icon-mask"
+    },
+    {
       "name": "equipped-CLOAK",
+      "directions": 4
+    },
+    {
+      "name": "mask-equipped-CLOAK",
       "directions": 4
     },
     {
