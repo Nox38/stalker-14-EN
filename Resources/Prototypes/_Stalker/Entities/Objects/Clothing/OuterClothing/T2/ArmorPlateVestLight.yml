@@ -57,9 +57,11 @@
   description: Лёгкий бронежилет второго класса защиты, основа основ.
   components:
   - type: Sprite
-    sprite: _Stalker/Objects/Clothing/outerClothing/plate_svoboda.rsi
+    #sprite: _Stalker/Objects/Clothing/outerClothing/plate_svoboda.rsi
+    sprite: _Stalker_EN/Objects/Clothing/outerClothing/plate_svoboda.rsi # Stalker EN (Freedom Shield2 Resprite)
   - type: Clothing
-    sprite: _Stalker/Objects/Clothing/outerClothing/plate_svoboda.rsi
+    #sprite: _Stalker/Objects/Clothing/outerClothing/plate_svoboda.rsi
+    sprite: _Stalker_EN/Objects/Clothing/outerClothing/plate_svoboda.rsi # Stalker EN (Freedom Shield2 Resprite)
  # bonus
   - type: Storage
     maxItemSize: Large
