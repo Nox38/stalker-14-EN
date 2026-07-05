@@ -44,7 +44,6 @@
   components:
   - type: Sprite
     sprite: _Stalker_EN/Objects/Clothing/Eyes/orange_tactical_goggles.rsi
-    sprite: _Stalker_EN/Objects/Clothing/Eyes/orange_tactical_goggles.rsi
 
 
 - type: entity
