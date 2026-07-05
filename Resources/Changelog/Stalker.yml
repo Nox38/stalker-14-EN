@@ -3450,5 +3450,98 @@
   id: 388
   time: '2026-06-27T18:13:18.545325+00:00'
   url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1009
+- author: Nox38
+  changes:
+  - message: Removed armor from August and August-M raincoats.
+    type: Remove
+  id: 389
+  time: '2026-06-29T00:31:24.360761+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1012
+- author: Llfiend
+  changes:
+  - message: T4 armor changes
+    type: Tweak
+  id: 390
+  time: '2026-06-29T03:53:04.675806+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1015
+- author: Llfiend
+  changes:
+  - message: No more stam dmg from bullets
+    type: Remove
+  id: 391
+  time: '2026-06-30T08:08:43.442108+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1019
+- author: Llfiend
+  changes:
+  - message: Silencer changes
+    type: Tweak
+  id: 392
+  time: '2026-06-30T15:38:33.027171+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1020
+- author: crocodilecarousel
+  changes:
+  - message: Journalist RCBZ
+    type: Add
+  - message: A few additions to the renegade tooth shop
+    type: Add
+  id: 393
+  time: '2026-07-01T16:15:41.356947+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1016
+- author: crocodilecarousel
+  changes:
+  - message: Adds new scarves to shops
+    type: Add
+  id: 394
+  time: '2026-07-01T16:26:43.774933+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1018
+- author: Mooringt
+  changes:
+  - message: OC-14-A1 7,62x39mm
+    type: Add
+  id: 395
+  time: '2026-07-01T16:28:36.458699+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1017
+- author: Llfiend
+  changes:
+  - message: Silencers now silence UP CLOSE TOO!!!!
+    type: Tweak
+  id: 396
+  time: '2026-07-01T21:04:36.632244+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1021
+- author: dallaszzz
+  changes:
+  - message: Removes itemslot comp from a paper in bar
+    type: Fix
+  id: 397
+  time: '2026-07-02T22:43:15.733438+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1022
+- author: crocodilecarousel
+  changes:
+  - message: Medical bundles added to the Igor warzone shop
+    type: Add
+  - message: High tier gear added to Military premium shop
+    type: Add
+  - message: Gear added to some dollar vends
+    type: Add
+  - message: Forester now buys all high tier artifacts
+    type: Fix
+  - message: General shop updates
+    type: Tweak
+  - message: Ammo costs lowered
+    type: Tweak
+  - message: Jerky sell price lowered
+    type: Tweak
+  id: 398
+  time: '2026-07-03T19:05:31.253485+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1023
+- author: TheOverwatchVoice
+  changes:
+  - message: Garbage and Cordon checkpoints
+    type: Tweak
+  - message: Fixed some teleports of Agro, Mbase and Garbage
+    type: Fix
+  id: 399
+  time: '2026-07-03T20:39:00.275831+00:00'
+  url: https://github.com/stalker-14-EN/stalker-14-EN/pull/1024
 Name: Stalker
 Order: -1
