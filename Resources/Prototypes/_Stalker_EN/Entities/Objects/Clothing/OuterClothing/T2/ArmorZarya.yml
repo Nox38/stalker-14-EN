@@ -1,40 +1,35 @@
 ﻿# Sunrise Mercenary
 - type: entity
   parent: STClothingOuterArmorZaryaBase
-  id: ClothingOuterArmorZaryaMonolith
+  id: ClothingOuterArmorZaryaMercenary
   name: Mercenary Sunrise suit
-  description: A sunrise suit in grey and blue. Modified for PMC work in the Zone.
+  description: A Sunrise suit in grey and blue. Modified for PMC work in the Zone.
   suffix: ST, T2, PvE, Radioactive
   components:
   - type: Sprite
-    sprite: _Stalker_EN/Objects/Clothing/outerClothing/zarya_mono.rsi
+    sprite: _Stalker_EN/Objects/Clothing/outerClothing/zarya_merc.rsi
   - type: Clothing
-    sprite: _Stalker_EN/Objects/Clothing/outerClothing/zarya_mono.rsi
+    sprite: _Stalker_EN/Objects/Clothing/outerClothing/zarya_merc.rsi
   - type: ToggleableClothing
-    clothingPrototype: ClothingHeadHelmetZaryaMonolith
+    clothingPrototype: ClothingHeadHelmetZaryaMercenary
     slot: head
 
 - type: entity
   parent: STClothingHeadHatBase
-  id: ClothingHeadHelmetZaryaMonolith
-  name: Noonrise hood
+  id: ClothingHeadHelmetZaryaMercenary
+  name: Sunrise hood
   categories: [ HideSpawnMenu ]
-  description: An urban camo hood.
+  description: Keeps the rain off your head.
   components:
   - type: Sprite
-    sprite: _Stalker_EN/Objects/Clothing/hats/zarya_mono_hood.rsi
+    sprite: _Stalker_EN/Objects/Clothing/hats/zarya_merc_hood.rsi
   - type: Clothing
-    sprite: _Stalker_EN/Objects/Clothing/hats/zarya_mono_hood.rsi
+    sprite: _Stalker_EN/Objects/Clothing/hats/zarya_merc_hood.rsi
   - type: HideLayerClothing
     slots:
     - Hair
     - Headtop
     hideOnToggle: true
-  - type: PersonalDamage
-    damage:
-      types:
-        Radiation: 18.01
-
 
 # sunrise monolith
 - type: entity
