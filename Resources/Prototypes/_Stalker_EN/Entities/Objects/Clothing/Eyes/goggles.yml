@@ -1,3 +1,52 @@
+# Adapted the bandana YAML to allow for glasses which can be worn over eyes (eye slot) or on your forehead (head slot).
+- type: entity
+  parent: [ClothingHeadBase, BaseFoldable]
+  id: ClothingHeadGogglesSwapBase
+  abstract: true
+  components:
+  - type: Foldable
+    folded: true
+  - type: IdentityBlocker
+    enabled: false
+    coverage: EYES
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/Eyes/orange_tactical_goggles.rsi
+
+- type: entity
+  parent: [ClothingMaskBase, BaseFoldable]
+  id: ClothingEyesGogglesSwapBase
+  abstract: true
+  components:
+  - type: Appearance
+  - type: Foldable
+    canFoldInsideContainer: true
+  - type: FoldableClothing
+    foldedEquippedPrefix: ""
+    foldedSlots:
+    - HEAD
+    unfoldedSlots:
+    - EYES
+  - type: IdentityBlocker
+    coverage: EYES
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/Eyes/orange_tactical_goggles.rsi
+
+- type: entity
+  parent: [ClothingHeadGogglesSwapBase, ClothingEyesGogglesSwapOrange]
+  id: ClothingHeadGogglesSwapOrange
+  name: orange tactical goggles
+
+- type: entity
+  parent: ClothingEyesGogglesSwapBase
+  id: ClothingEyesGogglesSwapOrange
+  name: orange tactical goggles
+  description: High-end ballistic goggles with a flash-resistant coating, usually worn by western Mercenaries in the Zone.
+  components:
+  - type: Sprite
+    sprite: _Stalker_EN/Objects/Clothing/Eyes/orange_tactical_goggles.rsi
+    sprite: _Stalker_EN/Objects/Clothing/Eyes/orange_tactical_goggles.rsi
+
+
 - type: entity
   parent: ClothingEyesGogglesBerill
   id: ClothingEyesGogglesBerillBig
